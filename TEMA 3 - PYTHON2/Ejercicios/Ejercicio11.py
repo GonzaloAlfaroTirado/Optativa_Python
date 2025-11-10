@@ -1,4 +1,3 @@
-# Ejercicio 11: Escriba un programa que lee dos números y muestra el mayor
 num1 = float(input("Introduce el primer número: "))
 num2 = float(input("Introduce el segundo número: "))
 if num1 > num2:
