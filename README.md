@@ -4,7 +4,17 @@ Este repositorio contiene todos los ejercicios, prácticas y apuntes realizados 
 
 ---
 
+## 🗂️ Estructura del Repositorio
 
+A continuación se detalla la organización actual de las carpetas y archivos del proyecto:
+
+* **📁 TEMA 1 - DIAGRAMAS**
+    * 📂 Diagramas
+    * 📂 Diagramas A Código
+* **📁 TEMA 2 - PYTHON**
+* **📁 TEMA 3 - PYTHON2**
+    * 📂 Ejercicios
+    * 📂 EjerciciosClase_18-11-2025
 ---
 
 ## 👤 Autor
