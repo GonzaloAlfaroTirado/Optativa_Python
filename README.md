@@ -14,7 +14,14 @@ A continuación se detalla la organización actual de las carpetas y archivos de
 * **[📁 TEMA 2 - PYTHON](./TEMA%202%20-%20PYTHON)**
 * **[📁 TEMA 3 - PYTHON2](./TEMA%203%20-%20PYTHON2)**
     * [📂 Ejercicios](./TEMA%203%20-%20PYTHON2/Ejercicios)
+        * [📂 Parte1](./TEMA%203%20-%20PYTHON2/Ejercicios/Parte1)
+        * [📂 Parte2](./TEMA%203%20-%20PYTHON2/Ejercicios/Parte2)
+        * [📂 Parte3](./TEMA%203%20-%20PYTHON2/Ejercicios/Parte3)
+    * [📂 EjerciciosForo](./TEMA%203%20-%20PYTHON2/EjerciciosForo)
+        * [📂 EjerciciosCadenas](./TEMA%203%20-%20PYTHON2/EjerciciosForo/EjerciciosCadenas)
+        * [📂 EjerciciosFiguras](./TEMA%203%20-%20PYTHON2/EjerciciosForo/EjerciciosFiguras)
     * [📂 EjerciciosClase_18-11-2025](./TEMA%203%20-%20PYTHON2/EjerciciosClase_18-11-2025)
+
 ---
 
 ## 👤 Autor
